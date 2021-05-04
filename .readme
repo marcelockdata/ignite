@@ -1,0 +1,6 @@
+comandos docker-compose
+
+
+criar container
+
+    docker-compose up
